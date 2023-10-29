@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Muhammad Aswan Syahputra"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/aswansyahputra
+      - icon: twitter
+        href: https://twitter.com/aswansyahputra_
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+
+
