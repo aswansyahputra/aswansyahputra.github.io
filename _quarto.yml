@@ -15,5 +15,6 @@ format:
     theme: flatly
     css: styles.css
 
-
+execute:
+  freeze: auto
 
